@@ -1,0 +1,4 @@
+Marco;Alloggio;350.00;10/12/2022
+Laura;Conferenza;500.00;15/12/2022
+Luciano;Cena;45.80;24/12/2022
+Stefano;Conferenza;350.50;11/12/2022
